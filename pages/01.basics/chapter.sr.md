@@ -1,5 +1,6 @@
 ---
 title: Uvod
+media_order: logo.svg
 taxonomy:
     category: docs
 child_type: docs
@@ -10,3 +11,4 @@ child_type: docs
 # Uvod
 
 Osnovni principi rada sa aplikacijom
+![](logo.svg)
