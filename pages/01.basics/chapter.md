@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Basics
+# Basics Stuff
 
 Discover the **basic** principles
