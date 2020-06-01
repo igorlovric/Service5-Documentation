@@ -12,4 +12,5 @@ Da biste se prijavili na aplikaciju, potrebno je da u WEB browseru unesete URL k
 Po kliku na dugme **Prijava** otvoriće se prozor u kom možete da unesete svoje korisničko ime i šifru ili da kliknete na dugme za prijavu putem Google naloga ako je vaš nalog povezan sa Google nalogom.
 ![](prijava_na_aplikaciju_02.jpg)
 Ako ste ispravno uneli korisničko ime i šifru, bićete prijavljeni u aplikaciju.
+
 _**NAPOMENA:** Ako nemate korisnički nalog ili ste zaboravili šifru, potrebno je da se obratite administratoru aplikacije kako bi van kreirao nalog ili izmenio šifru._
