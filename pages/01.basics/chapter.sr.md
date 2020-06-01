@@ -10,5 +10,5 @@ child_type: docs
 
 # Uvod
 
-Osnovni principi rada sa aplikacijom
+S5 aplikacija u nekolio reči
 ![](logo.svg?resize=200,200)
