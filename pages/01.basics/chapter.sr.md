@@ -1,12 +1,12 @@
 ---
-title: Basics
+title: Uvod
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
+### Poglavlje 1
 
-# Basics Stuff 12
+# Uvod
 
-Discover the **basic** principles
+Osnovni principi rada sa aplikacijom
