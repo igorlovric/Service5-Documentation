@@ -16,5 +16,5 @@ Discover the **basic** principles
 
 {% set langobj  = grav['language'] %}
 {% set curlang  = langobj.getLanguage() %}
-{{ dump(langobj) }}
+{{ dump(grav) }}
 {{ langobj.getDefault() }}
