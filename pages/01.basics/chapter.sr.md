@@ -11,4 +11,4 @@ child_type: docs
 # Uvod
 
 Osnovni principi rada sa aplikacijom
-![](logo.svg)
+![](logo.svg?lightbox=600,400&resize=200,200)
