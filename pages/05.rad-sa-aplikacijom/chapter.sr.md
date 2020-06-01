@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
+### Poglavlje 2
 
-# Chapter Title
-
-Chapter description.
+# Rad sa aplikacijom
