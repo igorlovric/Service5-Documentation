@@ -13,8 +13,3 @@ process:
 # Basics Stuff 12
 
 Discover the **basic** principles
-
-{% set langobj  = "sadasdf" %}
-
-{{ dump(langobj) }}
-{{ langobj }}
