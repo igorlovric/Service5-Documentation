@@ -3,6 +3,7 @@ title: 'Šta je S5 aplikacija?'
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
 S5 aplikacija služi za vođenje evidencije servisa. Osnovne funkcionalnosti aplikacije su:
