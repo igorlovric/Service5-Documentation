@@ -10,3 +10,5 @@ child_type: docs
 # Basics Stuff 12
 
 Discover the **basic** principles
+
+{{ Language->getActive() }}
