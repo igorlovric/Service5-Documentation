@@ -14,4 +14,3 @@ process:
 
 Discover the **basic** principles
 
-{{ Language->getActive() }}
