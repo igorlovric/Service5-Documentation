@@ -3,6 +3,9 @@ title: Basics
 taxonomy:
     category: docs
 child_type: docs
+twig_first: true
+process:
+    twig: true
 ---
 
 ### Chapter 1
