@@ -3,6 +3,7 @@ title: 'Šta je S5 aplikacija?'
 taxonomy:
     category:
         - docs
+child_type: default
 visible: true
 ---
 
