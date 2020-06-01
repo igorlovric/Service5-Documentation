@@ -1,5 +1,5 @@
 ---
-title: Advanced
+title: 'Rad sa aplikacijom'
 taxonomy:
     category: docs
 child_type: docs
